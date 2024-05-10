@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudipamandal
-- 👀 I’m currently a Frontend developer moving towards becoming a Full Stack Developer
-- ⭐ I have worked on several Cloud and Machine Learning projects.
+- 👀 I’m currently a Frontend Developer moving towards becoming a Full Stack Developer
+- ⭐ I have worked on several Cloud and Machine Learning projects
 - 💞️ I’m looking forward to collaborate on any technical or reserach projects
 - 📫 How to reach me https://www.linkedin.com/in/sudipa-mandal-2002b8244/
 
